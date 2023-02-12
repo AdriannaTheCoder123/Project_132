@@ -1,0 +1,85 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#bedroom
+{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    height: 60px;
+}
+
+#bedroom:hover
+{
+    background-color: pink;
+    width: 350px;
+    height: 60px;
+}
+
+#bookshelf
+{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    height: 60px;
+}
+
+#bookshelf:hover
+{
+    background-color: pink;
+    width: 350px;
+    height: 60px;
+}
+
+#poster
+{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    height: 60px;
+}
+
+#poster:hover
+{
+    background-color: pink;
+    width: 350px;
+    height: 60px;
+}
+
+#desk
+{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    height: 60px;
+}
+
+#desk:hover
+{
+    background-color: pink;
+    width: 350px;
+    height: 60px;
+}
+
+#dresser
+{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    height: 60px;
+}
+
+#dresser:hover
+{
+    background-color: pink;
+    width: 350px;
+    height: 60px;
+}
